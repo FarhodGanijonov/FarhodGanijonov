@@ -26,3 +26,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXIxcDFybzYxNHNrYjU1d2hkcTJtM3Iya2VrZzhodzZ4c3Rwc3Y3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/200.webp" alt="Matrix Code" width="1200" height="100">
 </p>
+
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" alt="Profile Counter">
+</p>
