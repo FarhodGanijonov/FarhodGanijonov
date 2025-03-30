@@ -7,16 +7,10 @@ I’m Farhod, a backend developer working with Python. I enjoy learning new tech
 
 <h2 align="center">📬 Contact Me</h2>
 <p align="center">
-  <a href="mailto:farhodganijonov81@gmail.com">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://t.me/user_typing">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://instagram.com/coder_uz_">
-    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
+  <a href="mailto:farhodganijonov81@gmail.com"><p align="center">
+  <a href="https://t.me/@user_typing"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://instagram.com/coder_uz_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p></p>
 
 
 
