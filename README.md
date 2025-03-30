@@ -1,5 +1,9 @@
 ## Hi there!👋  I'm Farhod Ganijonov
 
+
+I’m Farhod, a backend developer working with Python. I enjoy learning new technologies and collaborating on team projects. Problem-solving and finding efficient solutions are at the core of my work. I am always striving for growth and improvement. No matter how complex the challenge, I embrace it. Technology evolves rapidly— and I’m always ready to adapt!
+
+
 <!--
 **FarhodGanijonov/FarhodGanijonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
