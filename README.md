@@ -1,4 +1,5 @@
-## Hi 👋 I'm Farhod G'anijonov
+## Hi there!👋 
+## I'm Farhod G'anijonov
 
 <!--
 **FarhodGanijonov/FarhodGanijonov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
