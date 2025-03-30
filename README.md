@@ -8,15 +8,16 @@ I’m Farhod, a backend developer working with Python. I enjoy learning new tech
 <h2 align="center">📬 Contact Me</h2>
 <p align="center">
   <a href="mailto:farhodganijonov81@gmail.com">
-    <img src="https://img.shields.io/badge/-farhodganijonov81@gmail.com-D14836?style=social&logo=gmail&logoColor=D14836" alt="Email">
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://t.me/user_typing">
-    <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=social&logo=telegram&logoColor=26A5E4" alt="Telegram">
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://instagram.com/coder_uz_">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=social&logo=instagram&logoColor=E4405F" alt="Instagram">
+    <img src="https://img.shields.io/badge/-?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
+
 
 
 
