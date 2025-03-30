@@ -1,11 +1,11 @@
 ## Hi there!👋  I'm Farhod Ganijonov
 
 
-🇬🇧 Eng:
+## 🇬🇧 Eng:
 I’m Farhod, a backend developer working with Python. I enjoy learning new technologies and collaborating on team projects. Problem-solving and finding efficient solutions are at the core of my work. I am always striving for growth and improvement. No matter how complex the challenge, I embrace it. Technology evolves rapidly— and I’m always ready to adapt!
 
 
-🇺🇿 Uzb:
+## 🇺🇿 Uzb:
 Men Farhod, backend dasturchiman va Python bilan ishlayman. Yangi texnologiyalarni o‘rganish va jamoaviy loyihalarda qatnashish juda yoqadi. Muammolarni hal qilish va samarali yechim topish mening ish uslubimdir. Har doim o‘sish va rivojlanishga intilaman. Har qanday murakkablikdagi muammolarni hal qilishni yoqtiraman. Texnologiyalar tez o‘zgaradi – men esa doim yangilikka tayyorman!
 
 
