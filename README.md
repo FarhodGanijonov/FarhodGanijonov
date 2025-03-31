@@ -1,3 +1,13 @@
+
+
+<a href=#><img src="https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
+</p>
+
+
 ## Hi there!👋  I'm Farhod Ganijonov
 
 I’m Farhod, a backend developer working with Python. I enjoy learning new technologies and collaborating on team projects. Problem-solving and finding efficient solutions are at the core of my work. I am always striving for growth and improvement. No matter how complex the challenge, I embrace it. Technology evolves rapidly— and I’m always ready to adapt!
@@ -37,12 +47,6 @@ I’m Farhod, a backend developer working with Python. I enjoy learning new tech
 ---
 
 
-<a href=#><img src="https://raw.githubusercontent.com/blocage/blocage/main/contributions.svg"></a>
-
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
-</p>
 
 
 <!--
