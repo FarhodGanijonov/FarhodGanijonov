@@ -30,22 +30,26 @@ I’m Farhod, a backend developer working with Python. I enjoy learning new tech
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FarhodGanijonov&theme=dark&background=000000)](https://git.io/streak-stats)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhodGanijonov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+<div align="center">
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=FarhodGanijonov&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="FarhodGanijonov" /></p>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FarhodGanijonov&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  <br><br>
 
----
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhodGanijonov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FarhodGanijonov&theme=aura_dark" height="180em" />
-<br>
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhodGanijonov&theme=2077" height="180em" />
+  <br>
 
----
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FarhodGanijonov&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="FarhodGanijonov" />
 
+  ---
+
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FarhodGanijonov&theme=aura_dark" height="180em" />
+  <br>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FarhodGanijonov&theme=2077" height="180em" />
+
+</div>
 
 
 
